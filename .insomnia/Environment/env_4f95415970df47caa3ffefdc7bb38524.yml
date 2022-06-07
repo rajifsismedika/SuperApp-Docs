@@ -1,0 +1,16 @@
+_id: env_4f95415970df47caa3ffefdc7bb38524
+type: Environment
+parentId: env_a503be0df235e3c5261242d6d563531cd3be0625
+modified: 1654566620399
+created: 1653881650453
+name: SuperApp Staging
+data:
+  base_url: https://dev-superapp.primaya.id/api
+  token: ""
+dataPropertyOrder:
+  "&":
+    - base_url
+    - token
+color: null
+isPrivate: false
+metaSortKey: 1653881650453

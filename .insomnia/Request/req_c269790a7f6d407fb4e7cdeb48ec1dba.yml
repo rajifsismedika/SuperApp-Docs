@@ -1,0 +1,37 @@
+_id: req_c269790a7f6d407fb4e7cdeb48ec1dba
+type: Request
+parentId: fld_125c6162cff64285b6f50b0b7921f210
+modified: 1654566752961
+created: 1654566749056
+url: "{{ _.base_url }}/see-otp"
+name: Mock See OTP
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"phone" : "+62895341591146"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_39314ddf6256446686083139388208dc
+  - id: pair_09d796f4014643399d29d079f596c968
+    name: Accept
+    value: application/json
+    description: ""
+  - id: pair_fde4de27f9ab4d6f8d01bb5d72e3acbe
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1654566178029
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
